@@ -1,3 +1,3 @@
 # EllipsePy
 
-EllipsePy - Orbital Mechanics Data Visualization and Analysis Package | Lalith U 2021
+https://pypi.org/project/EllipsePy/ | Lalith U 2021
