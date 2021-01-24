@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='Ellipse',
+    name='EllipsePy',
     version='0.0.1',
     author='Lalith U.',
     author_email='lalithuriti@gmail.com',
