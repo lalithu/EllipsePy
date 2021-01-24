@@ -77,7 +77,7 @@ class Orbit:
             step += 1
 
         rs = ys[:, :3]
-        vs = ys[:, 3:]
+        # vs = ys[:, 3:]
 
         print(rs)
 

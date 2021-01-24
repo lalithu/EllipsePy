@@ -1,5 +1,4 @@
-import poliastro.plotting.porkchop
-import bodies
+import EllipsePy.Ellipse.bodies
 from utilities import spheres, Orbit
 import plotly.graph_objects as go
 

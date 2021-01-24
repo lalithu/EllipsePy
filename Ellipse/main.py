@@ -1,7 +1,8 @@
+import orbital
 import numpy as np
-from utilities import Orbit
-from plotting import Plotter
-from bodies import Sun, Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
+from EllipsePy.Ellipse.utilities import Orbit
+from EllipsePy.Ellipse.plotting import Plotter
+from EllipsePy.Ellipse.bodies import Sun, Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune
 
 # Plotting a Planet
 # Earth_Plot = Plotter(Earth)

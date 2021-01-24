@@ -1,4 +1,6 @@
-from constants import *
+from EllipsePy.Ellipse.constants import *
+
+G = G
 
 Sun = {
     'Name': "Sun",
