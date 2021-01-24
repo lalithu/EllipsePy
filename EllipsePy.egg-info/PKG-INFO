@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: EllipsePy
+Version: 0.0.1
+Summary: Orbital Mechanics Data Analysis Package
+Home-page: https://github.com/lalithu/EllipsePy
+Author: Lalith U.
+Author-email: lalithuriti@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Topic :: Scientific/Engineering :: Astronomy

@@ -1,0 +1,13 @@
+README.md
+setup.py
+EllipsePy/__init__.py
+EllipsePy/bodies.py
+EllipsePy/constants.py
+EllipsePy/examples.py
+EllipsePy/plotting.py
+EllipsePy/utilities.py
+EllipsePy.egg-info/PKG-INFO
+EllipsePy.egg-info/SOURCES.txt
+EllipsePy.egg-info/dependency_links.txt
+EllipsePy.egg-info/requires.txt
+EllipsePy.egg-info/top_level.txt
