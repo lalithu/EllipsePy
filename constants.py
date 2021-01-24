@@ -1,5 +1,5 @@
 # G - Gravitational Constant
-G = 6.67428e-11  # (N m^2) / kg^2
+G = 6.67428e-11 * 10 ** -9  # Converting from (N m^2) / kg^2 to (N km^2) / kg^2
 
 # Mass (kg)
 Sun_mass = 1.9891e30
