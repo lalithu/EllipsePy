@@ -9,6 +9,7 @@ License: UNKNOWN
 Description: UNKNOWN
 Platform: UNKNOWN
 Classifier: Development Status :: 2 - Pre-Alpha
-Classifier: Intended Audience :: Science/ResearchProgramming Language :: Python :: 3
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Topic :: Scientific/Engineering :: Astronomy
