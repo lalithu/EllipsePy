@@ -10,8 +10,7 @@ setup(
     install_requires=['numpy', 'plotly', 'scipy'],
     keywords=['python', 'Orbital Mechanics', 'EllipsePy'],
     classifiers=[
-        "Development Status :: Early Stages",
-        "Intended Audience :: Education & Research",
+        "Intended Audience :: Education",
         "Programming Language :: Python :: 3",
     ]
 )
