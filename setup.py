@@ -11,7 +11,7 @@ setup(
     install_requires=['numpy', 'plotly', 'scipy'],
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
-        "Intended Audience :: Science/Research"
+        "Intended Audience :: Science/Research",
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Topic :: Scientific/Engineering :: Astronomy"
