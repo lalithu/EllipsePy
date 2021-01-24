@@ -9,7 +9,6 @@ setup(
     url="https://github.com/lalithu/EllipsePy",
     packages=find_packages(),
     install_requires=['numpy', 'plotly', 'scipy'],
-    keywords=['python', 'Orbital Mechanics', 'Astrodynamics'],
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
         "Intended Audience :: Science/Research"
