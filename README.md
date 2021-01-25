@@ -1,6 +1,6 @@
 <!-- EllipsePy | Lalith Uriti 2021 -->
 
-<p align="center"><img src="images/orbit1.png"></p>
+<p align="center"><img src="images/orbit.png"></p>
 
 <h1 align="center">EllipsePy</h1>
 
