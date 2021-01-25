@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: EllipsePy
-Version: 0.0.2
+Version: 0.0.3
 Summary: Orbital Mechanics Data Analysis Package
 Home-page: https://github.com/lalithu/EllipsePy
 Author: Lalith Uriti
@@ -8,7 +8,7 @@ Author-email: lalithuriti@gmail.com
 License: UNKNOWN
 Description: <!-- EllipsePy | Lalith Uriti 2021 -->
         
-        <p align="center"><img src="images/orbit.png"></p>
+        <p align="center"><img src="https://raw.githubusercontent.com/lalithu/EllipsePy/main/images/orbit.png"></p>
         
         <h1 align="center">EllipsePy</h1>
         
@@ -65,7 +65,7 @@ Description: <!-- EllipsePy | Lalith Uriti 2021 -->
         
         - Plotly
           ```sh
-          pip install ployly
+          pip install plotly
           ```
         
         ## Examples
