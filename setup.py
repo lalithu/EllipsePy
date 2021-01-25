@@ -14,7 +14,7 @@ setup(
     description='Orbital Mechanics Data Analysis Package',
     long_description='''<!-- EllipsePy | Lalith Uriti 2021 -->
 
-<p align="center"><img src="images/orbit.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/lalithu/EllipsePy/main/images/orbit.png"></p>
 
 <h1 align="center">EllipsePy</h1>
 
@@ -71,7 +71,7 @@ pip install EllipsePy
 
 - Plotly
   ```sh
-  pip install ployly
+  pip install plotly
   ```
 
 ## Examples

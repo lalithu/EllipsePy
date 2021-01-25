@@ -57,7 +57,7 @@ pip install EllipsePy
 
 - Plotly
   ```sh
-  pip install ployly
+  pip install plotly
   ```
 
 ## Examples
