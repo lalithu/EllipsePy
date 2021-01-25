@@ -30,10 +30,7 @@ Orbital Mechanics Data Visualization and Analysis Library
 
 <h3 align="center">
 
-<a href="https://github.com/lalithu/EllipsePy">V1 Docs</a> -
-<a href="https://pypi.org/project/EllipsePy/">PyPI</a> -
-<a href="https://github.com/lalithu/EllipsePy/issues">Status</a>
-
+<a href="https://github.com/lalithu/EllipsePy">V1 Docs</a> - <a href="https://pypi.org/project/EllipsePy">PyPI</a> - <a href="https://github.com/lalithu/EllipsePy/issues">Status</a>
 <br/>
 
 </h3>
