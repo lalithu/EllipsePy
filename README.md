@@ -30,7 +30,10 @@ Orbital Mechanics Data Visualization and Analysis Library
 
 <h3 align="center">
 
-<a href="https://github.com/lalithu/EllipsePy-Testing">V1 Docs</a> - <a href="docs/apps.md">PyPI</a> - <a href="https://github.com/lalithu/EllipsePy-Testing/issues">Status</a>
+<a href="https://github.com/lalithu/EllipsePy">V1 Docs</a> -
+<a href="https://pypi.org/project/EllipsePy/">PyPI</a> -
+<a href="https://github.com/lalithu/EllipsePy/issues">Status</a>
+
 <br/>
 
 </h3>
@@ -62,7 +65,7 @@ pip install EllipsePy
 
 ## Examples
 
-_For more examples, please refer to the [Documentation](https://github.com/lalithu/EllipsePy-Testing)_
+_For more examples, please refer to the [Documentation](https://github.com/lalithu/EllipsePy)_
 
 ## License
 
@@ -74,5 +77,5 @@ Lalith U - [@BlueUnveiling](https://twitter.com/BlueUnveiling) - lalithuriti@gma
 
 Project Links:
 
-- PyPI: [https://github.com/lalithu/EllipsePy-Testing](https://github.com/lalithu/EllipsePy-Testing)
-- Github: [https://github.com/lalithu/EllipsePy-Testing](https://github.com/lalithu/EllipsePy-Testing)
+- PyPI: [https://github.com/lalithu/EllipsePy-Testing](https://pypi.org/project/EllipsePy/)
+- Github: [https://github.com/lalithu/EllipsePy-Testing](https://github.com/lalithu/EllipsePy)
