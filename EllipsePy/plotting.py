@@ -1,4 +1,4 @@
-from .utilities import spheres, Orbit
+from .utilities import Spheres, Orbit
 import plotly.graph_objects as go
 
 
@@ -10,7 +10,7 @@ class Plotter:
     def Plot(self, Orbit=None):
 
         if Orbit != None:
-            Body = spheres(
+            Body = Spheres(
                 self.body['Radius'], self.body['Color'], self.body['Color_Gradient'])
 
             self.rxs = Orbit[0]
@@ -39,7 +39,7 @@ class Plotter:
             return self.fig.show()
 
         else:
-            Body = spheres(
+            Body = Spheres(
                 self.body['Radius'], self.body['Color'], self.body['Color_Gradient'])
 
             layout = go.Layout(title="{} Plot".format(self.body['Name']), showlegend=False, margin=dict(l=0, r=0, t=0, b=0),

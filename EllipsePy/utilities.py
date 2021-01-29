@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 
 
 # Planetary Body Initializer
-def spheres(radius, clr, clr_gradient=None, dist=0):
+def Spheres(radius, clr, clr_gradient=None, dist=0):
     # Set up 100 points. First, do angles
     theta = np.linspace(0, 2 * np.pi, 100)
     phi = np.linspace(0, np.pi, 100)
