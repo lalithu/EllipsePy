@@ -10,7 +10,7 @@ on:
 jobs:
   deploy:
 
-    runs-on: ubuntu-latest
+    runs-on: macos-11.0
 
     steps:
     - uses: actions/checkout@master
