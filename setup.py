@@ -8,7 +8,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='EllipsePy',
-    version='0.1.2',
+    version='0.1.3',
     author='Lalith Uriti',
     author_email='lalithuriti@gmail.com',
     description='Orbital Mechanics Data Visualization and Analysis',
