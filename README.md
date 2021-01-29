@@ -5,7 +5,7 @@
 <h1 align="center">EllipsePy</h1>
 
 <h3 align="center">
-Orbital Mechanics Data Visualization and Analysis Library
+Orbital Mechanics Data Visualization and Analysis
 </h3>
 
 <p align="center">
