@@ -19,7 +19,7 @@ setup(
 <h1 align="center">EllipsePy</h1>
 
 <h3 align="center">
-Orbital Mechanics Data Visualization and Analysis Library
+Orbital Mechanics Data Visualization and Analysis
 </h3>
 
 <p align="center">
@@ -91,6 +91,7 @@ Project Links:
 - PyPI: [https://github.com/lalithu/EllipsePy-Testing](https://pypi.org/project/EllipsePy/)
 - Github: [https://github.com/lalithu/EllipsePy-Testing](https://github.com/lalithu/EllipsePy)
 ''',
+    license='MIT',
     long_description_content_type='text/markdown',
     url="https://github.com/lalithu/EllipsePy",
     packages=find_packages(),
