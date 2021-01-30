@@ -8,13 +8,13 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='EllipsePy',
-    version='0.1.3',
+    version='0.2.0',
     author='Lalith Uriti',
     author_email='lalithuriti@gmail.com',
     description='Orbital Mechanics Data Visualization and Analysis',
     long_description='''<!-- EllipsePy | Lalith Uriti 2021 -->
 
-<p align="center"><img src="https://raw.githubusercontent.com/lalithu/EllipsePy/main/images/orbit.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/lalithu/EllipsePy/main/images/StarlinkConst.png"></p>
 
 <h1 align="center">EllipsePy</h1>
 
