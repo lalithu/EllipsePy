@@ -75,4 +75,4 @@ Lalith U - [@BlueUnveiling](https://twitter.com/BlueUnveiling) - lalithuriti@gma
 Project Links:
 
 - [PyPI](https://pypi.org/project/EllipsePy/)
-- [GitHub](https://github.com/lalithu/EllipsePy)
+- [Interactive Demo](https://lalithu.github.io/StarlinkConstellation/)
