@@ -74,5 +74,5 @@ Lalith U - [@BlueUnveiling](https://twitter.com/BlueUnveiling) - lalithuriti@gma
 
 Project Links:
 
-- PyPI: [https://github.com/lalithu/EllipsePy-Testing](https://pypi.org/project/EllipsePy/)
-- Github: [https://github.com/lalithu/EllipsePy-Testing](https://github.com/lalithu/EllipsePy)
+- [PyPI](https://pypi.org/project/EllipsePy/)
+- [GitHub](https://github.com/lalithu/EllipsePy)
